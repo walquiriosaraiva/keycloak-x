@@ -1,1 +1,1 @@
-FROM quay.io/keycloak/keycloak-x
+FROM quay.io/keycloak/keycloak:latest
